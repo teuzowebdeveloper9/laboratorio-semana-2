@@ -22,6 +22,7 @@ laboratorio-semana-2/
 
 | Kata | Descrição | Pasta |
 |---|---|---|
+| 2 | Jogo de cartas entre Steve e Josh | [`kata-02`](kata-02) |
 
 ## Como executar
 
