@@ -22,6 +22,7 @@ laboratorio-semana-2/
 
 | Kata | Descrição | Pasta |
 |---|---|---|
+| 1 | Inverter uma string | [`kata-01`](kata-01) |
 
 ## Como executar
 
